@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [iNetBanking]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Banking App Regression Test">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.iNetBanking.testCases.TC_LoginTest_001"/>
+    </classes>
+  </test> <!-- Banking App Regression Test -->
+  <test name="Banking App Regression Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.iNetBanking.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.iNetBanking.testCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- Banking App Regression Test(failed) -->
+</suite> <!-- Failed suite [iNetBanking] -->

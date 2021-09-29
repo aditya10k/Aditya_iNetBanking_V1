@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Aditya_iNetBanking_HybridFramework" duration-ms="36725" started-at="2021-09-23T17:27:02Z" finished-at="2021-09-23T17:27:39Z">
+    <groups>
+    </groups>
+    <test name="Regression Test Suite" duration-ms="36725" started-at="2021-09-23T17:27:02Z" finished-at="2021-09-23T17:27:39Z">
+      <class name="com.iNetBanking.testCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iNetBanking.testCases.TC_AddCustomerTest_003@3bfdc050]" name="setUp" is-config="true" duration-ms="289" started-at="2021-09-23T22:57:02Z" finished-at="2021-09-23T22:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.iNetBanking.testCases.TC_AddCustomerTest_003@3bfdc050]" name="setup" is-config="true" duration-ms="13201" started-at="2021-09-23T22:57:02Z" finished-at="2021-09-23T22:57:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.iNetBanking.testCases.TC_AddCustomerTest_003@3bfdc050]" name="addNewCustomer" duration-ms="22855" started-at="2021-09-23T22:57:15Z" finished-at="2021-09-23T22:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.iNetBanking.testCases.TC_AddCustomerTest_003@3bfdc050]" name="tearDown" is-config="true" duration-ms="650" started-at="2021-09-23T22:57:38Z" finished-at="2021-09-23T22:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownReport()[pri:0, instance:com.iNetBanking.testCases.TC_AddCustomerTest_003@3bfdc050]" name="tearDownReport" is-config="true" duration-ms="2" started-at="2021-09-23T22:57:39Z" finished-at="2021-09-23T22:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
+      </class> <!-- com.iNetBanking.testCases.TC_AddCustomerTest_003 -->
+    </test> <!-- Regression Test Suite -->
+  </suite> <!-- Aditya_iNetBanking_HybridFramework -->
+</testng-results>

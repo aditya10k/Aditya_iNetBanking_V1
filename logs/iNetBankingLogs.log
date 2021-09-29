@@ -1,0 +1,131 @@
+[INFO ] 2021-09-23 22:21:31.165 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-23 22:21:35.213 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-23 22:21:40.445 [main] BaseClass - UserName entered
+[INFO ] 2021-09-23 22:21:40.547 [main] BaseClass - Password entered
+[INFO ] 2021-09-23 22:21:42.486 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-23 22:21:42.487 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-23 22:21:53.135 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-23 22:21:56.179 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-23 22:21:56.922 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-23 22:23:04.555 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-23 22:23:08.032 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-23 22:23:13.150 [main] BaseClass - UserName entered
+[INFO ] 2021-09-23 22:23:13.257 [main] BaseClass - Password entered
+[INFO ] 2021-09-23 22:23:14.300 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-23 22:23:15.469 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-23 22:23:15.472 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-23 22:23:17.990 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-23 22:23:23.433 [main] BaseClass - UserName entered
+[INFO ] 2021-09-23 22:23:23.565 [main] BaseClass - Password entered
+[INFO ] 2021-09-23 22:23:25.354 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-23 22:23:25.354 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-23 22:23:36.005 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-23 22:23:39.040 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-23 22:23:39.899 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-23 22:28:49.624 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-23 22:28:52.985 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-23 22:28:55.873 [main] BaseClass - UserName entered
+[INFO ] 2021-09-23 22:28:55.984 [main] BaseClass - Password entered
+[INFO ] 2021-09-23 22:28:58.771 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-23 22:28:58.771 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-23 22:28:59.527 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-23 22:42:51.883 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-23 22:43:04.638 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-23 22:43:07.281 [main] BaseClass - UserName entered
+[INFO ] 2021-09-23 22:43:07.378 [main] BaseClass - Password entered
+[INFO ] 2021-09-23 22:43:09.136 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-23 22:43:09.137 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-23 22:43:26.893 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-23 22:43:29.927 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-23 22:43:30.611 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-23 22:57:03.287 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-23 22:57:13.222 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-23 22:57:15.889 [main] BaseClass - UserName entered
+[INFO ] 2021-09-23 22:57:15.991 [main] BaseClass - Password entered
+[INFO ] 2021-09-23 22:57:17.722 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-23 22:57:17.723 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-23 22:57:35.531 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-23 22:57:38.570 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-23 22:57:39.223 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 22:32:13.281 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 22:32:35.950 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 22:32:39.938 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 22:32:40.054 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 22:32:41.697 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-24 22:32:43.721 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 22:32:43.725 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 22:32:51.824 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 22:32:54.442 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 22:32:54.545 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 22:32:56.425 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-24 22:32:56.426 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-24 22:33:14.711 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-24 22:33:17.738 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-24 22:33:18.407 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 22:52:46.176 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 22:52:50.080 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 22:52:59.674 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 22:52:59.790 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 22:53:00.825 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-24 22:53:01.834 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 22:53:01.838 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 22:53:09.015 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 22:53:11.625 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 22:53:11.739 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 22:53:13.384 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-24 22:53:13.385 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-24 22:53:31.004 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-24 22:53:34.023 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-24 22:53:34.665 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 23:53:49.362 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 23:53:59.512 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 23:54:02.436 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 23:54:02.536 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 23:54:03.941 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-24 23:54:06.982 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 23:54:06.986 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 23:54:14.099 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 23:56:05.304 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 23:56:16.033 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 23:56:19.096 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 23:56:19.195 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 23:56:20.277 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-24 23:56:21.164 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-24 23:56:21.169 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-24 23:56:27.788 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-24 23:56:30.950 [main] BaseClass - UserName entered
+[INFO ] 2021-09-24 23:56:31.051 [main] BaseClass - Password entered
+[INFO ] 2021-09-24 23:56:33.006 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-24 23:56:33.007 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-24 23:56:50.572 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-24 23:56:53.604 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-24 23:56:54.591 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-26 12:22:09.331 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-26 12:22:29.586 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-26 12:22:36.111 [main] BaseClass - UserName entered
+[INFO ] 2021-09-26 12:22:36.309 [main] BaseClass - Password entered
+[INFO ] 2021-09-26 12:22:37.778 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-26 12:22:39.117 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-26 12:22:39.121 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-26 12:22:47.566 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-26 12:22:52.735 [main] BaseClass - UserName entered
+[INFO ] 2021-09-26 12:22:52.832 [main] BaseClass - Password entered
+[INFO ] 2021-09-26 12:22:54.950 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-26 12:22:54.951 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-26 12:23:12.755 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-26 12:23:16.514 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-28 21:33:24.715 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-28 21:34:09.741 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-28 21:34:15.178 [main] BaseClass - UserName entered
+[INFO ] 2021-09-28 21:34:15.349 [main] BaseClass - Password entered
+[INFO ] 2021-09-28 21:34:16.735 [main] BaseClass - Clicked on submit button
+[INFO ] 2021-09-28 21:34:18.375 [main] BaseClass - -------------Successfully quited the browser------------
+[INFO ] 2021-09-28 21:34:18.379 [main] BaseClass - Came Inside Setup method
+[INFO ] 2021-09-28 21:34:25.918 [main] BaseClass - Opened the Chrome browser
+[INFO ] 2021-09-28 21:34:34.284 [main] BaseClass - UserName entered
+[INFO ] 2021-09-28 21:34:34.394 [main] BaseClass - Password entered
+[INFO ] 2021-09-28 21:34:36.657 [main] BaseClass - Clicked on New Customer Link
+[INFO ] 2021-09-28 21:34:36.658 [main] BaseClass - Entering the customer details
+[INFO ] 2021-09-28 21:34:54.751 [main] BaseClass - Entered all the details and clicked on submit Button
+[INFO ] 2021-09-28 21:34:57.767 [main] BaseClass - Pass - Customer Added successfully
+[INFO ] 2021-09-28 21:34:58.639 [main] BaseClass - -------------Successfully quited the browser------------
